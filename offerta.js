@@ -45,8 +45,8 @@ module.exports = {
 
   // I link che il bot può suggerire quando ha senso farlo.
   links: {
-    booking: 'https://calendly.com/tuonome/call',
-    freebie: 'https://tuosito.com/freebie',
+    booking: 'https://calendly.com/silviasacco/zoom-conoscitiva',
+    freebie: 'https://www.silvia-sacco.com/#limpronta',
     payment: 'https://buy.stripe.com/xxxxx'
   },
 

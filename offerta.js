@@ -8,7 +8,7 @@ module.exports = {
 
   // Il nome con cui il bot si presenta e il tono che deve usare.
   business: {
-    name: 'Silvia NeuroBranding',
+    name: 'Alessia Coach per donne',
     toneNotes: 'Diretta, calda, mai formale. Frasi brevi. Niente linguaggio da azienda.'
   },
 
@@ -21,6 +21,12 @@ module.exports = {
       forWho: 'È pensato per chi non ha tempo per gestire le chat e le domande ripetitive. È il tuo assistente personale.'
     },
      {
+      name: 'THE GLITCH',
+      price: '€ 297',
+      whatIncludes: 'Il mio Best seller, il corso registrato che copre tutto ciò che devi sapere per mandare al massimo il tuo business sfruttando neuroscienze, pattern inconsci, marketing radicato e automazioni.',
+      forWho: 'È pensato per chi vuole ricostruire il suo brand da zero o vuole uscire dal burnout e ottenere finalmente un business che funziona senza impazzire.'
+    },
+    {
       name: 'THE GLITCH',
       price: '€ 297',
       whatIncludes: 'Il mio Best seller, il corso registrato che copre tutto ciò che devi sapere per mandare al massimo il tuo business sfruttando neuroscienze, pattern inconsci, marketing radicato e automazioni.',
